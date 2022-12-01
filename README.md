@@ -30,4 +30,7 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 
 ![image](https://user-images.githubusercontent.com/110326399/204984484-7c1ced0c-7c9f-4329-acbf-295283633384.png)
 
+<div align="center">
+  <p align="center"><strong>P R E V I E W</strong></p>
+
 
