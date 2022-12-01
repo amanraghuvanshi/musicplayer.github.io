@@ -28,5 +28,6 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
   <a href="https://amanraghuvanshi.github.io/musicplayer.github.io/" target="_blank"><strong>⏩ 𝕃𝕚𝕧𝕖 𝔻𝕖𝕞𝕠🍩</strong></a><br><br><br>
 </div>
 
-![desktop](https://user-images.githubusercontent.com/110326399/204984278-b825a15c-78c2-4a94-934e-6171cdb424eb.png)
+![image](https://user-images.githubusercontent.com/110326399/204984484-7c1ced0c-7c9f-4329-acbf-295283633384.png)
+
 
